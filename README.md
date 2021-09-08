@@ -1,11 +1,19 @@
-## HAI KEMBALI LAGI KE AULIA RAHMAN OFFICIAL AND ANITA DWI SURANTI
+## HAI👋 Rahman Ganteng:v
+
+
+
+
+
+
+
+
 
 # JANGAN LUPA SUBSCRIBE CHANNEL SAYA 
 ```
-* <center><a href="https://bit.ly/AuliaRahmanOfficialYT">YouTube</a></center
-* <center><a href="https://wa.me/6285821676621">WhatsApp</a></center>
-* <center><a href="https://github.com/Rhmn9">GITHUB</a></center>
-* <center><a href="https://github.com/Xinz-Team/XinzBot">GITHUB XINZ-TEAM</a></center>
+* <a href="https://bit.ly/AuliaRahmanOfficialYT">YouTube</a>
+* <a href="https://wa.me/6285821676621">WhatsApp</a>
+* <a href="https://github.com/Rhmn9">GITHUB</a>
+* <a href="https://github.com/Xinz-Team/XinzBot">GITHUB XINZ-TEAM</a>
 ```
 
 # CARA INSTALL
