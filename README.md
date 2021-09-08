@@ -35,7 +35,7 @@ Scan Qr Anda sekarang
 
 ## THANKS TOO
 
-```
+
 ••• <a href="https://github.com/Ramlan404/xinzbot">Ramlan</a>
 
 
@@ -46,4 +46,4 @@ Scan Qr Anda sekarang
 
 
 ••• <a href="https://github.com/Xinz-Team/xinzbot">Xinz-Team</a>
-```
+
