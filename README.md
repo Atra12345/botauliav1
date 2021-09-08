@@ -11,10 +11,10 @@
 # CARA INSTALL
 ```
 * pkg install git
-* pkg install python
+* pkg install ffmpeg
 * pkg install nodejs
-* git clone https://github.com/Rhmn9/NewBotWhatsapp
-* cd NewBotWhatsapp
+* git clone https://github.com/Rhmn9/botauliav1
+* cd botauliav1
 * npm i
 * node main.js
 ```
