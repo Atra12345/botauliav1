@@ -222,7 +222,7 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
             if (!fromMe) return
         }
         
-        // Auto sticker
+        // Auto sticker Belom work
         if (isGroup && isAutoStickerOn && !isOwner && !isGroupAdmins){
             let encmedia = isQuotedImage ? JSON.parse(JSON.stringify(msg).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo : msg
                     let media = await xinz.downloadAndSaveMediaMessage(encmedia, `./sticker/${sender}`)
