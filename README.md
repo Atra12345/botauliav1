@@ -1,49 +1,78 @@
-# HAIII👋 RAHMAN GANZ
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rahman
 
+<p align="center">
 
+<img src="https://a.top4top.io/p_2077m6los0.jpg" alt="Rahman Ganteng" width="600" />
 
+<a href="https://avatars.githubusercontent.com/u/81602606?v=4"><img title="Aulia Rahman" src="https://img.shields.io/badge/Aulia Rahman-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-## INSTALL FOR TERMUX
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Rhmn9"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AULIARAHMAN-orange.svg?style=for-the-badge&logo=github"></a>
+
+</p>
+
+<details>
+
+ 
+
+</details>
+
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗔𝗹𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗕𝗼𝘁
+
+### BAHAN BOT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
+* `TERMUX`
+
+### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+
+Script ini di modifikasi sama saya sendiri.
+
+```bash
+
+> git clone https://github.com/Rhmn9/botauliav1
+
+> cd botauliav1
+
+> npm i atau npm install
+
+> node main.js atau npm start
+
+> Tinggal scan kode qr, done
+
 ```
-• pkg install git
 
-• pkg install ffmpeg
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
-• pkg install nodejs
+* [`Donasi Gopay`](085821676621) 
 
-• pkg install mc
+## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-• git clone https://github.com/Rhmn9/botauliav1
+* [`Youtube Admin`](https://youtube.com/c/AuliaRahmanOfficialYT123)
 
-• cd botauliav1
+* [`Instagram Admin`](https://instagram.com/rahman_nayyers)
 
-• npm i
+* [`WhatsApp Admin `](https://wa.me/6285821676621)
 
-• node main.js & npm start
-```
-Scan Qr Anda sekarang
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
+* `ALLAH SWT`
 
-## SOSMED / SOSIAL
+* `BAILEYS`
 
-• <a href="https://wa.me/6285821676621">WHATSAPP</a>
+* `MHANKBARBAR`
 
-• <a href="https://github.com/Rhmn9">GITHUBME</a>
+* `Aqulz`
 
+* `Ramlan ID`
 
+* `AuliaRahman`
 
+* `Hans`
 
-## THANKS TOO
+* `CREATOR BOT`
 
-
-••• <a href="https://github.com/Ramlan404/xinzbot">Ramlan</a>
-
-
-••• <a href="https://github.com/Rhmn9/botauliav1">GITHUBME</a>
-
-
-••• <a href="https://github.com/Mhankbarbar">mhankbarbar</a>
-
-
-••• <a href="https://github.com/Xinz-Team/xinzbot">Xinz-Team</a>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
